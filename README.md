@@ -1,4 +1,4 @@
-# Profolio-Website
+# Portfolio-Website
 Welcome to my Portfolio Website!
 
 This project showcases my skills and provides an overview of my work and experience. The website is designed using responsive web design (RWD) principles, ensuring a seamless user experience across various devices and screen sizes. Also, I applied Bootstrap 5 on my website for advanced designs.
