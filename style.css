@@ -5,6 +5,24 @@
     box-sizing: border-box;
 }
 
+a:link {
+    color: #ababab;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #ababab;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -223,6 +241,10 @@ nav ul li a:hover::after {
 
 .contact-right {
     flex-basis: 60%;
+}
+
+.contact-left a {
+    color: black;
 }
 
 .contact-left p {
